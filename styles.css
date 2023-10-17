@@ -1,0 +1,75 @@
+.nlogo {
+      background-color: aliceblue;
+      position: relative;
+      height: 70px;
+      width: 1600px;
+      margin-bottom: 50px;
+      margin-top: 0px;
+}
+a {
+      /* background-color:white; */
+      color:black;
+      margin-left:35px;
+ }
+input {
+      color:white;
+      background-color:deeppink;
+}
+.about {
+      color:black;
+      background-color:white;
+      font-family:cursive;
+      margin-top: 70px;   
+    }
+.container {
+      display:flex;
+}
+ i{
+       font-size:35px;
+ }
+ .links {
+      margin-left:100px;
+      margin-bottom:60px;
+ }
+ div {
+      margin-top:50px;
+ }
+ .footer{
+      display:flex;
+      flex-wrap:wrap;
+      max-width:2000px;
+      padding: 0 20px;
+      margin:0 auto;
+      justify-content:space-between;
+ }
+ .footer-left {
+        
+         text-decoration:underline;
+         display:inline-block;
+         margin: 0;
+          margin-right:20px;
+         font-size:small;
+         font-variant: normal;
+ }
+ .footer-right{
+         margin-right:20px;
+         margin-left:150px;
+         font-size:medium;
+         display:inline-block;
+         color: white;
+         
+ }
+.links{
+      display:flex;
+      padding: 0px 0px 0px 0px;
+      margin: 0px 0px 0px 0px ;
+}
+ body{ background-color:aliceblue;
+
+ }
+ .contact {
+      font-size:large;
+ }
+ .myprojects {
+      font-size:large;
+ }
